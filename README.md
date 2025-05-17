@@ -99,5 +99,7 @@ These are all critical components for any data-driven role in business or techno
 ---
 
 > 👤 **Santhosh Voorugonda**  
-> Aspiring Data Analyst  
+> Aspiring Data Analyst
+> 🔗 [LinkedIn](https://www.linkedin.com/in/santhosh484)  
+> 🌐 [Portfolio](https://datascienceportfol.io/santhoshvooru)  
 
