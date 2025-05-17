@@ -103,3 +103,5 @@ These are all critical components for any data-driven role in business or techno
 > 🔗 [LinkedIn](https://www.linkedin.com/in/santhosh484)  
 > 🌐 [Portfolio](https://datascienceportfol.io/santhoshvooru)  
 
+![Screenshot 2025-05-17 171448](https://github.com/user-attachments/assets/0591d9a2-76bd-44fd-9eef-85ed4cd9d1a6)
+
